@@ -23,5 +23,10 @@ let booleanisLoggedIn = Boolean(isLoggedIn);
 
 let someNumber = 21;
 let stringsomeNumber = String(someNumber);
-console.log(stringsomeNumber);
-console.log(typeof(stringsomeNumber));
+// console.log(stringsomeNumber);
+// console.log(typeof(stringsomeNumber));
+
+// ------Operations-------
+
+console.log(1+2+"3");
+console.log("1"+2+3);
